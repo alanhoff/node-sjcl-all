@@ -1,13 +1,13 @@
 {
-    "name": "sjcl",
+    "name": "sjcl-all",
     "version": "1.0.1",
-    "description": "Stanford Javascript Crypto Library",
+    "description": "SJCL with all options enabled.",
     "main": "sjcl.js",
-    "author": "bitwiseshiftleft",
+    "author": "Alan Hoffmeister <alanhoffmeister@gmail.com>",
     "keywords": ["encryption", "high-level", "crypto"],
     "repository" : {
         "type": "git",
-        "url": "https://github.com/bitwiseshiftleft/sjcl.git"
+        "url": "https://github.com/alanhoff/node-sjcl-all"
     },
     "scripts": {
       "test": "make test"
