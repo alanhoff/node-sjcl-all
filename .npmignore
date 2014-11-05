@@ -1,0 +1,5 @@
+**/*
+!package.json
+!sjcl.js
+!README.md
+!README/**/*

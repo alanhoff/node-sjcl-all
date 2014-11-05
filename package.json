@@ -1,7 +1,7 @@
 {
     "name": "sjcl-all",
     "version": "1.0.1",
-    "description": "SJCL with all options enabled.",
+    "description": "SJCL --with-all options enabled.",
     "main": "sjcl.js",
     "author": "Alan Hoffmeister <alanhoffmeister@gmail.com>",
     "keywords": ["encryption", "high-level", "crypto"],
@@ -12,5 +12,6 @@
     "scripts": {
       "test": "make test"
     },
-    "engines": { "node": "*" }
+    "engines": { "node": "*" },
+    "license": ["GPL-2.0+", "BSD-2-Clause"]
 }
